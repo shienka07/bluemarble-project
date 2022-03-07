@@ -23,7 +23,7 @@
 
 ## c. Wiki
 
-https://github.com/shienka07/bluemarble-project.wiki.git
+https://github.com/shienka07/bluemarble-project/wiki
 
 <br/><br/>
 ## d. 시연영상
